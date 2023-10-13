@@ -15,9 +15,6 @@ require("lazy").setup({
 	{ import = "user.plugins" },
 	{ import = "user.plugins.lsp" },
 }, {
-	-- install = {
-	-- 	colorscheme = { "ayu-darka" },
-	-- },
 	checker = {
 		enabled = true,
 		notify = false,

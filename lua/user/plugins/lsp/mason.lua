@@ -1,6 +1,7 @@
 return {
 	"williamboman/mason.nvim",
 	dependencies = {
+		"nvim-lua/plenary.nvim",
 		"williamboman/mason-lspconfig.nvim",
 		"WhoIsSethDaniel/mason-tool-installer.nvim",
 	},
